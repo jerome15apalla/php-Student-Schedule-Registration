@@ -1,0 +1,64 @@
+body{
+	background-color: teal;
+	font: arial 13px white;
+}
+table{
+	background-color: lightseagreen;
+}
+td{
+	font: 1.1vw futura;
+	color: white;
+}
+th{
+	color: black;
+	font: bold 1vw futura;
+	background-color: darkturquoise;
+}
+input{
+	color: teal;
+	font-family: futura;
+	width: 100%;
+}
+.button{
+	background-color: teal;
+	border: none;
+	color: white;
+	width: 27%;
+	height: 30px;
+	font: 1.3vw futura;
+}
+.searchButton{
+	background-color: teal;
+	border: none;
+	color: white;
+	width: 100%;
+	height: 20px;
+	font: 1vw futura;
+}
+.left{
+	float: left;
+	width: 23%;
+	margin: 0 0.5% 0 0;
+	padding-left: 1%;
+	box-sizing: border-box;
+}
+h2{
+	color: white;
+	font-family: 'Heiti TC';
+	font-size: 2vw;
+	text-align: center;
+}
+.right{
+	margin: 0 0 0 0;
+	padding-left: .5%;
+	float: left;
+	width: 74%;
+}
+.record{
+	border-collapse: collapse;
+}
+.record td, .record th{
+	border: solid 1px teal;
+	margin: 0;
+	box-sizing: border-box;
+}
